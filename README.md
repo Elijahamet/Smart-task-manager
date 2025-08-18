@@ -40,6 +40,10 @@ Edit
 cd taskify
 3. Open in browser
 Simply open index.html in your favorite browser.
+or
+4. run this : npm install
+              npm run dev
+              follow the link
 
 🎯 Roadmap / Future Enhancements
 📱 Mobile-first optimization for all devices
