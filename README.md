@@ -51,7 +51,8 @@ Simply open index.html in your favorite browser.
 👥 Multi-user support with login system
 
 📸 Preview
-(Add screenshots or GIFs here once you’ve built your app!)
+<img width="1638" height="873" alt="image" src="https://github.com/user-attachments/assets/be8dc1e7-e16e-49b3-9386-d287cf2861a4" />
+
 
 🤝 Contributing
 Contributions are welcome!
