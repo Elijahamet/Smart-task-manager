@@ -1,6 +1,5 @@
 
 # ✅ Taskify – Smart Task Manager
-
 **Taskify** is a sleek and modern **To-Do List Web App** built with **HTML, CSS, and JavaScript**.  
 It helps you manage your daily tasks with ease, offering an elegant UI, smooth animations, and useful features like filters, reminders, and progress tracking.  
 
